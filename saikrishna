@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sai Krishna Bhavana | Full Stack Developer</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Sai Krishna Bhavana</h1>
+		<h2>Full Stack Developer</h2>
+		<nav>
+			<ul>
+				<li><a href="#summary">Summary</a></li>
+				<li><a href="#education">Education</a></li>
+				<li><a href="#skills">Skills</a></li>
+				<li><a href="#experience">Experience</a></li>
+				<li><a href="#projects">Projects</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="summary">
+			<h2>Summary</h2>
+			<p>Motivated To obtain a Full Stack Developer position where I can utilize my experience and skills in developing desktop and mobile applications, designing client-side and server-side architecture, and building well-functioning databases and applications. Possesses a computer science degree and has a problem-solving mindset with a sense of ownership. Has shipped dynamic web applications and enjoys working in a rapidly changing and growing organization. Always learning and likes to share and teach within the team.</p>
+			<p>Contact me: <a href="mailto:saikrishna.bhavana01@gmail.com">saikrishna.bhavana01@gmail.com</a> | <a href="https://www.linkedin.com/in/sai-krishna-bhavana/">LinkedIn</a> | (626) 725-9239</p>
+		</section>
+		<section id="education">
+			<h2>Education</h2>
+			<ul>
+				<li>California State University Long Beach, Long Beach, CA (Jan’22 - May’23)<br>Master’s in computer science | GPA: 3.9<br>Relevant Coursework: Advanced Topics in Programming Languages, Advanced Analysis of Algorithms, Advanced Software Engineering</li>
+				<li>Hindustan Institute of Technology and Science, Chennai, India (Jun’16 - Jul’20)<br>Bachelor’s in computer science | GPA: 3.8</li>
+			</ul>
+		</section>
+		<section id="skills">
+			<h2>Technical Skills</h2>
+			<ul>
+				<li>Programming Languages: C#, React, ClickHouse, WordPress, OOP, Java, PHP, Ext JS, JSON, MYSQL, Postgre</li>
+				<li>Web Technologies: MVC framework, Ajax, jQuery, Object Oriented (OO) JavaScript, JSON, Bootstrap, SOAP / REST APIs, Web Services, XML, Single Page Application (SPA) framework such as AngularJS, Vue.js</li>
+				<li>Tools: .Net framework, Spring Boot, Node.JS</li>
+				<li>Debug and automation: Writing unit test, integration, and functional tests.</li>
+			</ul>
+		</section>
+		<section id="experience">
+			<h2>Work Experience</h2>
+			<ul>
+				<li>California State University – Research Assistant (Long Beach, USA, Feb’22 - present)<br>Analyze and evaluate new tools, frameworks, and libraries that can improve the development process and enhance the user experience.</
